@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList", "web\ToDoList.cs
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6688A53D-7D73-40B3-B655-BAD9E6A29190}"
 	ProjectSection(SolutionItems) = preProject
+		rg-project2\parameters.json = rg-project2\parameters.json
 		ReadMe.md = ReadMe.md
+		rg-project2\template.json = rg-project2\template.json
 	EndProjectSection
 EndProject
 Global
